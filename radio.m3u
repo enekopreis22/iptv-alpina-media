@@ -1,5 +1,6 @@
-#EXTINF:0,Radio ERF 1
+#EXTM3U
+#EXTINF:-1 tvg-name="ERF 1",ERF 1
 https://azura.linkodev.ch/listen/erf_1/radio.mp3
 
-#EXTINF:0,Radio LeonFM
+#EXTINF:-1 tvg-name="LeonFM",LeonFM
 https://azura.linkodev.ch/listen/leonfm/radio.mp3
