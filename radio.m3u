@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="ERF 1",ERF 1
+#EXTINF:-1 tvg-name="ERF 1" tvg-logo="https://https://media.discordapp.net/attachments/1452296111309062308/1470025648738406527/erf1.png?ex=69f0a092&is=69ef4f12&hm=85909325be9d52858f1d526084b7b58ba8818a438dbe682e164ba11a2b92ec36&=&format=webp&quality=lossless&width=628&height=628",ERF 1
 https://azura.linkodev.ch/listen/erf_1/radio.mp3
 
-#EXTINF:-1 tvg-name="LeonFM",LeonFM
+#EXTINF:-1 tvg-name="LeonFM" tvg-logo="https://cdn.discordapp.com/attachments/1498334740632305755/1498334893984190714/image.png?ex=69f0c89c&is=69ef771c&hm=93a392b760fe3c56d0ce863218c0913c414cd5258336f77891c024a977ba4140&",LeonFM
 https://azura.linkodev.ch/listen/leonfm/radio.mp3
