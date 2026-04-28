@@ -4,3 +4,9 @@ https://azura.linkodev.ch/listen/erf_1/radio.mp3
 
 #EXTINF:-1 tvg-name="LeonFM" tvg-logo="https://cdn.discordapp.com/attachments/1498334740632305755/1498334893984190714/image.png?ex=69f0c89c&is=69ef771c&hm=93a392b760fe3c56d0ce863218c0913c414cd5258336f77891c024a977ba4140&",LeonFM
 https://azura.linkodev.ch/listen/leonfm/radio.mp3
+
+#EXTINF:-1 tvg-name="NW Radio One" tvg-logo="-",NW Radio One
+https://ca.azura.linkodev.ch/listen/nwr001/radio.mp3
+
+#EXTINF:-1 tvg-name="NW Radio Two" tvg-logo="-",NW Radio Two
+https://ca.azura.linkodev.ch/listen/nwr002/radio.mp3
